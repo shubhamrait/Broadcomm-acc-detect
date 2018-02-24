@@ -1,0 +1,1 @@
+echo "Accident Occured">/dev/rfcomm0
